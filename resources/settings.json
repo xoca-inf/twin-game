@@ -1,0 +1,296 @@
+{
+		"int": {
+				"TestVariable": 10,
+				"ShadowMapSize": 4096,
+				"ShadowMaxDistance": 30
+		},
+		"float": {
+				"SceneScale": 0.025,
+				"BathScale": 0.005,
+				"Bath_broken_1_Scale": 0.005,
+				"Bath_broken_2_Scale": 0.005,
+				"StandScale": 0.006,
+				"Stand_broken_1_Scale": 0.006,
+				"Stand_broken_2_Scale": 0.006,
+				"LightShiness": 1150,
+				"CameraHeight": -4.5,
+				"CameraWidth": 0,
+				"ChelScale": 0.015,
+				"ToiletScale": 0.005,
+				"Toilet_broken_1_Scale": 0.005,
+				"BookScale": 2.2,
+				"BooksScale": 1.4,
+				"VantuzScale": 1.0,
+				"DuckScale": 1.0
+		},
+	"string" : 
+	{
+
+	},
+    "vector2" : 
+	{
+		
+	},
+		"vector3": {
+				"ExplosionBathScale": {
+						"x": 0.5,
+						"y": 0.6,
+						"z": 0.6
+				},
+				"ExplosionBathTranslation": {
+						"x": 0,
+						"y": 0.18,
+						"z": 0
+				},
+				"ExplosionStandScale": {
+						"x": 0.6,
+						"y": 0.7,
+						"z": 0.7
+				},
+				"ExplosionStandTranslation": {
+						"x": 0,
+						"y": 0.13,
+						"z": 0
+				},
+				"ExplosionToiletScale": {
+						"x": 0.5,
+						"y": 0.6,
+						"z": 0.6
+				},
+				"ExplosionToiletTranslation": {
+						"x": 0,
+						"y": 0.09,
+						"z": 0
+				},
+
+				"Toilet_broken_2_Scale": {
+						"x": 0.005,
+						"y": 0.005,
+						"z": 0.005
+				},
+
+				"SceneTranslation": {
+						"x": 0,
+						"y": -2.2,
+						"z": -0.4
+				},
+				"SceneRotation": {
+						"x": 0,
+						"y": 180,
+						"z": 0
+				},
+
+				"Bath_broken_2_Translation": {
+						"x": 1.10,
+						"y": -2.0,
+						"z": -2.0
+				},
+				"Bath_broken_2_Rotation": {
+						"x": 0,
+						"y": -90,
+						"z": 0
+				},
+				"Bath_broken_1_Translation": {
+						"x": 1.10,
+						"y": -2.0,
+						"z": -2.0
+				},
+				"Bath_broken_1_Rotation": {
+						"x": 0,
+						"y": -90,
+						"z": 0
+				},
+				"BathTranslation": {
+						"x": 1.10,
+						"y": -2.0,
+						"z": -2.0
+				},
+				"BathRotation": {
+						"x": 0,
+						"y": -90,
+						"z": 0
+				},
+
+				"BookTranslation": {
+						"x": -130.0,
+						"y": 0.0,
+						"z": 150.0
+				},
+				"BookRotation": {
+						"x": 0,
+						"y": 90,
+						"z": 0
+				},
+
+				"BooksTranslation": {
+						"x": -130.0,
+						"y": 0.0,
+						"z": 150.0
+				},
+				"BooksRotation": {
+						"x": 0,
+						"y": 90,
+						"z": 0
+				},
+
+				"Toilet_broken_2_Translation": {
+						"x": 1.60,
+						"y": -2.1,
+						"z": 0.6
+				},
+				"Toilet_broken_2_Rotation": {
+						"x": 0,
+						"y": -90,
+						"z": 0
+				},
+				"Toilet_broken_1_Translation": {
+						"x": 1.60,
+						"y": -2.1,
+						"z": 0.6
+				},
+				"Toilet_broken_1_Rotation": {
+						"x": 0,
+						"y": -90,
+						"z": 0
+				},
+				"ToiletTranslation": {
+						"x": 1.60,
+						"y": -2.1,
+						"z": 0.6
+				},
+				"ToiletRotation": {
+						"x": 0,
+						"y": -90,
+						"z": 0
+				},
+
+				"Stand_broken_2_Translation": {
+						"x": -1.0,
+						"y": -2.0,
+						"z": 0.9
+				},
+				"Stand_broken_2_Rotation": {
+						"x": 0,
+						"y": -90,
+						"z": 0
+				},
+				"Stand_broken_1_Translation": {
+						"x": -1.0,
+						"y": -2.0,
+						"z": 0.9
+				},
+				"Stand_broken_1_Rotation": {
+						"x": 0,
+						"y": -90,
+						"z": 0
+				},
+				"StandTranslation": {
+						"x": -1.0,
+						"y": -2.0,
+						"z": 0.9
+				},
+				"StandRotation": {
+						"x": 0,
+						"y": -90,
+						"z": 0
+				},
+
+				"VantuzTranslation": {
+						"x": -40.0,
+						"y": 210.0,
+						"z": 20.0
+				},
+				"VantuzRotation": {
+						"x": 0,
+						"y": -90,
+						"z": 0
+				},
+
+				"DuckTranslation": {
+						"x": -40.0,
+						"y": 145.0,
+						"z": 200.0
+				},
+				"DuckRotation": {
+						"x": 0,
+						"y": -90,
+						"z": 0
+				},
+
+				"ChelTranslation": {
+						"x": -1.0,
+						"y": -2.0,
+						"z": -2.0
+				},
+				"ChelRotation": {
+						"x": 0,
+						"y": 90,
+						"z": 0
+				},
+
+				"HandBathTranslation": {
+						"x": 0.07,
+						"y": 0.05,
+						"z": 0.0
+				},
+				"HandBathScale": {
+						"x": 0.2,
+						"y": 0.2,
+						"z": 0.2
+				},
+				"HandToiletTranslation": {
+						"x": 0.08,
+						"y": 0.04,
+						"z": 0.0
+				},
+				"HandToiletScale": {
+						"x": 0.2,
+						"y": 0.2,
+						"z": 0.2
+				},
+				"HandStandTranslation": {
+						"x": 0.07,
+						"y": 0.04,
+						"z": 0.0
+				},
+				"HandStandScale": {
+						"x": 0.2,
+						"y": 0.2,
+						"z": 0.2
+				},
+
+
+				"ShadowIntensity": {
+						"x": 0.6,
+						"y": 0.6,
+						"z": 0.6
+				},
+
+				"CameraTranslation": {
+						"x": 0.0,
+						"y": 0.0,
+						"z": -10.0
+				},
+				"CameraRotation": {
+						"x": 30,
+						"y": 0,
+						"z": 0
+				},
+
+				"LightColor": {
+						"x": 0.6,
+						"y": 0.6,
+						"z": 0.6
+				},
+
+				"LightDirection": {
+						"x": 0.0,
+						"y": -0.5,
+						"z": 0.5
+				}
+		},
+	"vector4" :	
+	{
+        "CameraClearColor" : {"x": 0.9, "y": 0.8, "z": 0.7, "w": 1}
+	}
+}

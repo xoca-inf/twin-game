@@ -1,0 +1,8 @@
+{
+    "vertexFile" : "materials/shaders/animated.vs",
+    "fragmentFile" : "materials/shaders/animated.fs",
+    "primitiveType" : "TRIANGLES",
+    "params" : {
+    },
+    "defines": []
+}
